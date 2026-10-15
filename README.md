@@ -2,9 +2,9 @@
 
 A full-stack web app that lets an organization manage its shared resources (meeting rooms, vehicles, equipment) and book them without double-booking.
 
-- **Repository:** `<your-github-repo-url>`
-- **Demo video:** `<your-video-link>`
-- **ER diagram:** `<your-er-diagram-link>`
+- **Repository:** `https://github.com/MrMufzal/resource-reservation`
+- **Demo video:** `https://youtu.be/wamH222JeAI`
+- **ER diagram:** `https://github.com/MrMufzal/resource-reservation/blob/master/ER%20Diagram.drawio`
 
 ## The problem
 
